@@ -135,6 +135,24 @@ This system adds support for FATE Core and FATE Accelerated (FAE) to Foundry VTT
 
 # Other
 
+## Starfinder
+
+* **Author**: James Allred (wildj79#0980)
+* **Version**: v0.1.1 (errounously listed as v0.1.0 in the mainfest. Will be corrected in next update)
+* **Foundry VTT Compatibility**: v0.4.1+
+* **Translation Support**: EN (full)
+
+### Link(s) to Game System
+* [https://github.com/wildj79/foundryvtt-starfinder](https://github.com/wildj79/foundryvtt-starfinder)
+* [https://raw.githubusercontent.com/wildj79/foundryvtt-starfinder/master/system.json](https://raw.githubusercontent.com/wildj79/foundryvtt-starfinder/master/system.json)
+
+### Description
+This system adds support for the Starfinder RPG to Foundry VTT. This system provides sheets for player characters, NPC's, starships, and vehicles. At this time, there is currently no compendium materials included, but there will be some added in a future update.
+
+To install, use the in-app installer and enter into the manifest URL: `https://raw.githubusercontent.com/wildj79/foundryvtt-starfinder/master/system.json`
+
+---
+
 ## Simple Worldbuilding System
 
 * **Author**: Atropos (Foundry VTT Core Developer)
